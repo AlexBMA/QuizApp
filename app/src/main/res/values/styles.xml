@@ -8,10 +8,35 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Style for the relative layout -->
     <style name="QuestionStyle">
-
         <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for the relative layout -->
+    <style name="RelativeLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <!--Style for the radio group -->
+    <style name="RadioGroupStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for the radio button -->
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+
 
     </style>
-    
+
 </resources>

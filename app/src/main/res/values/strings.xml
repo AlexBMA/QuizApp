@@ -9,4 +9,10 @@
     <string name="question_5_text">Question 5 text</string>
     <string name="question_6_text">Question 6 text</string>
 
+
+    <string name="answer_radio_1_text">Answer 1</string>
+    <string name="answer_radio_2_text">Answer 2</string>
+    <string name="answer_radio_3_text">Answer 3</string>
+    <string name="answer_radio_4_text">Answer 4</string>
+
 </resources>
